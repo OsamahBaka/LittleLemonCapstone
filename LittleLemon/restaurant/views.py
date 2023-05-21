@@ -11,9 +11,8 @@ from rest_framework.authentication import TokenAuthentication
 # Create your views here.
 
 
-'''def index(request):
+def index(request):
     return render(request, 'index.html', {})
-'''
 
 
 # class BookingList(APIView):
